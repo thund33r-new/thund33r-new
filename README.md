@@ -24,6 +24,6 @@
 
 ### :hammer_and_wrench: Языки программирования :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
