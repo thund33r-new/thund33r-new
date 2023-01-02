@@ -17,8 +17,11 @@
 
 ### :man_technologist: Обо мне :
 - :telescope: Я занимаюсь программированием и за все время создал несколько проектов на Python.
+
 :seedling: Что я знаю: Python, C#, JavaScript, так же начал изучать C++.
+
 :zap: Я обычный программист из России.
+
 ### :hammer_and_wrench: Языки программирования :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
