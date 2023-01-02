@@ -4,7 +4,7 @@
   <a href="https://t.me/darkcrystal_self">
     <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-<div id="views-counter" align="left"> 
+<div id="views-counter" align="down"> 
     <img src="https://komarev.com/ghpvc/?username=Thund33rr&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
