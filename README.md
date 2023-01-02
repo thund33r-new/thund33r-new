@@ -18,7 +18,7 @@
 ### :man_technologist: Обо мне :
 :telescope: Я занимаюсь программированием и за все время изучения языков программирования создал несколько проектов на Python.
 
-:seedling: Я знаю: Python, C#, JavaScript, так же начал изучать C++ с Visual Basic .NET.
+:seedling: Я знаю: Python, C#, JavaScript, так же начал изучать C++, в дальнейшем в планах изучить Visual Basic .NET.
 
 :zap: Я обычный программист из России.
 
