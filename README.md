@@ -9,7 +9,7 @@
 </div>
 <h1>
   Привет! Я Thund33r и сейчас я расскажу о себе.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.discordapp.net/attachments/1058460325101437001/1059619191860240464/giphy.gif" width="30px"/>
 </h1>
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
