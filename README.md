@@ -1,5 +1,6 @@
 <div id="header" align="center">
 <div id="badges" align="down">
+  <img src="https://media.discordapp.net/attachments/1058460325101437001/1059615767060041758/image.jpg" width="100"/>
   <a href="https://t.me/darkcrystal_self">
     <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
