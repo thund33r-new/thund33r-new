@@ -15,14 +15,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: Обо мне :
+### :man_technologist: Обо мне:
 :telescope: Я занимаюсь программированием и за все время изучения языков программирования создал несколько проектов на Python.
 
 :seedling: Я знаю: Python, C#, JavaScript, так же начал изучать C++, в дальнейшем в планах изучить Visual Basic .NET.
 
 :zap: Я обычный программист из России.
 
-### :hammer_and_wrench: Языки программирования :
+### :hammer_and_wrench: Языки программирования:
 <div>
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
