@@ -18,7 +18,7 @@
 ### :man_technologist: Обо мне :
 :telescope: Я обычный программист из России и за все время изучения языков программирования создал несколько проектов на Python.
 
-:seedling: Что я знаю: Python, C#, JavaScript, так же начал изучать C++.
+:seedling: Я знаю: Python, C#, JavaScript, так же начал изучать C++.
 
 :zap: Мое био: https://bio.link/thund33r
 
