@@ -30,4 +30,4 @@
 
 ### :video_game: Моя статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=thund33r-new&theme=onedark_duo&locale=ru)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thund33r-new&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thund33r-new&locale=en&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
