@@ -29,4 +29,4 @@
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 
 ### :video_game: Моя статистика:
-[![GitHub Streak](https://streak-stats.demolab.com?user=thund33r-new&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thund33r-new&theme=onedark&language=ru)](https://git.io/streak-stats)
