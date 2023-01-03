@@ -12,7 +12,7 @@
   <img src="https://media.discordapp.net/attachments/1058460325101437001/1059619191860240464/giphy.gif" width="30px"/>
 </h1>
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/gif.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: Обо мне:
@@ -24,9 +24,9 @@
 
 ### :hammer_and_wrench: Языки программирования:
 <div>
-  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 
 ### :video_game: Моя статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=thund33r-new&theme=onedark_duo&locale=ru)](https://git.io/streak-stats)
