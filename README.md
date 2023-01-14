@@ -27,7 +27,3 @@
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/thund33r-new/thund33r-new/blob/main/icons/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-
-### :video_game: Моя статистика:
-[![GitHub Streak](https://streak-stats.demolab.com?user=thund33r-new&theme=onedark_duo&locale=ru)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thund33r-new&locale=en&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
